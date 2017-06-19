@@ -1,2 +1,9 @@
 # eleken
-test
+
+npm install
+
+for tests
+ - npm test
+
+for start server
+ - npm start
